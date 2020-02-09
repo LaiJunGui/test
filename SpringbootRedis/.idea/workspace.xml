@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="513648b7-0edf-4080-9764-dae104767b06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.3\repository" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XWO8F7HV2jpod0FuB2TVaTUjWX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="513648b7-0edf-4080-9764-dae104767b06" name="Default Changelist" comment="" />
+      <created>1581158222480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581158222480</updated>
+      <workItem from="1581158227628" duration="2547000" />
+      <workItem from="1581190469349" duration="559000" />
+      <workItem from="1581191636001" duration="2490000" />
+      <workItem from="1581242331086" duration="4054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="22" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581265979010">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="22" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1581265979010" />
+    <state x="184" y="67" key="FileChooserDialogImpl" timestamp="1581190169890">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="184" y="67" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581190169890" />
+    <state width="1281" height="171" key="GridCell.Tab.0.bottom" timestamp="1581266606164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="171" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581266606164" />
+    <state width="1281" height="171" key="GridCell.Tab.0.center" timestamp="1581266606164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="171" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581266606164" />
+    <state width="1281" height="171" key="GridCell.Tab.0.left" timestamp="1581266606164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="171" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581266606164" />
+    <state width="1281" height="171" key="GridCell.Tab.0.right" timestamp="1581266606164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="171" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581266606164" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1581266123279">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581266123279" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1581242332093">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581242332093" />
+    <state x="29" y="0" key="new project wizard" timestamp="1581261846102">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="29" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1581261846102" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1581261162983">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581261162983" />
+  </component>
+</project>
